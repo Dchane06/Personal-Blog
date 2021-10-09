@@ -1,0 +1,8 @@
+.posts {
+    flex: 9;
+    font-family: 'Playfair Display', serif;
+    color: black;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+}
